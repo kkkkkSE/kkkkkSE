@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm SangEun.</h1>
-<h3 align="center">A passionate frontend developer from korea</h3>
+<h2 align="center">Hi 👋, I'm a React expert in the future. 👩‍🔧 </h1>
+<h3 align="center">A passionate front-end developer from korea</h3>
 
 <p align="left">
 </p>
